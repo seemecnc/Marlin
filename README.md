@@ -6,3 +6,5 @@ Downloading Marlin for general use? Please select the releases tab or go directl
 Interested in the latest bleeding edge features and bugs? https://github.com/ErikZalm/Marlin/tree/Development. Click on the "download Zip" in the lower right corner or direct link: https://github.com/ErikZalm/Marlin/archive/Development.zip
 
 Interested in developing for Marlin? Fork https://github.com/ErikZalm/Marlin/tree/Development, and submit pull requests against the Development Branch.
+
+# visit SeeMeCNC .com menu item SUPPORT for more docs & guides for RAMBo controlled SeeMeCNC 3D printers.
